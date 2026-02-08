@@ -112,6 +112,37 @@ const educationInfo = {
   ]
 };
 
+
+// ===================== BLOGS =====================
+const blogsInfo = {
+  display: true,
+  blogs: [
+    {
+      title: "OpenAPI: Simplifying Distributed Service Communication",
+      platform: "Medium",
+      date: "2024",
+      url: "https://medium.com/@hassanmaroof098/openapi-simplifying-distributed-service-communication-324b72ecb138",
+      descBullets: [
+        "Explains OpenAPI fundamentals and real-world usage",
+        "How OpenAPI improves microservices communication",
+        "Practical examples for API documentation and tooling"
+      ]
+    },
+    {
+      title: "Why Real End-to-End Testing Is Crucial for Security and Functionality",
+      platform: "Medium",
+      date: "2024",
+      url: "https://medium.com/@hassanmaroof098/why-real-end-to-end-testing-is-crucial-for-security-and-functionality-8dddcc9cd45b",
+      descBullets: [
+        "Why mocked tests fail to catch critical issues",
+        "Security and integration risks in modern systems",
+        "Best practices for real E2E testing pipelines"
+      ]
+    }
+  ]
+};
+
+
 // ===================== TECH STACK =====================
 const techStack = {
   viewSkillBars: true,
@@ -388,5 +419,6 @@ export {
   contactInfo,
   twitterDetails,
   isHireable,
-  resumeSection
+  resumeSection,
+  blogsInfo
 };

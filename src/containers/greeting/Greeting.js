@@ -42,7 +42,7 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                
   
-                    <Button href="https://drive.google.com/file/d/10XtJCtCW9_ZW4hfw6zLvUuTDlwhTWyCh/view?usp=sharing"  className="download-link-button" text="View Resume" />
+                    <Button href="https://drive.google.com/file/d/1nZAfro35iDEvibKEmH4XXyO4SsUOpS6Z/view?usp=sharing"  className="download-link-button" text="View Resume" />
                   
                 
               </div>
