@@ -23,7 +23,7 @@ const greeting = {
   username: "Muhammad Hassan Maroof",
   title: "Hi, I'm Hassan",
   subTitle: emoji(
-    "Full Stack Engineer 🚀 with 3+ years of experience building scalable, cloud-native microservices using Java and Spring Boot across e-commerce, health tech, and enterprise systems. Proven impact through system modernization delivering up to 70% performance improvements, secure REST APIs, and data-intensive backend services. Currently pursuing an M.S. in Artificial Intelligence in Germany, with growing experience in LLM-based systems, RAG pipelines, and AI-aware backend design"
+    "Full Stack Engineer with 3+ years of experience building scalable, cloud-native distributed services using Java and Spring Boot across e-commerce, health tech, and enterprise systems. Proven impact through system modernization delivering up to 70% performance improvements, secure REST APIs, and data-intensive backend services. Currently pursuing an M.S. in Artificial Intelligence in Germany, with growing experience in LLM-based systems, RAG pipelines, and AI-aware backend design."
   ),
   resumeLink:
     "https://drive.google.com/file/d/10V-oZskT5v7JYDAmMwHVMF_CcuNR8HBH/view?usp=sharing", // Set to empty to hide the button
